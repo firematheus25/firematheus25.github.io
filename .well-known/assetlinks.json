@@ -1,5 +1,5 @@
 [{
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target" : { "namespace": "android_app", "package_name": "sag.android",
-                 "sha256_cert_fingerprints": ["A8:F4:63:EB:45:51:98:5C:8B:EB:E4:43:0F:29:BA:C3:25:E1:0C:74:AD:6A:DA:00:41:39:CA:2F:F4:8D:CA:5C"] }
+                 "sha256_cert_fingerprints": ["C2:E9:20:C1:66:AB:D7:9F:DC:8E:60:02:27:29:22:23:82:DE:58:C6:48:B5:41:CD:21:80:6A:FA:0A:FB:09:CA"] }
   }]
